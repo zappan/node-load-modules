@@ -1,0 +1,16 @@
+{
+  "name"          : "node-routes-autoload",
+  "description"   : "Node module automatic load and initialization of node routes from a directory",
+  "version"       : "0.1.0",
+  "main"          : "./lib/routesautoload.js",
+  "repository"    : {
+    "type": "git",
+    "url" : "git@github.com:zappan/node-routes-autoload.git"
+  },
+  "keywords"      : [
+    "node",
+    "node.js"
+  ],
+  "author"        : "Tomislav Capan <tomislav.capan@gmail.com>",
+  "license"       : "MIT"
+}
