@@ -1,9 +1,11 @@
 # Node Routes Autoload
 
-Node module that allows automatic load and initialization of node routes from a given directory.
+Node module that allows automatic load and initialization of
+Express.js routes' controllers from a given directory.
 
 ## History
 
+  * **0.2.0** - [2013-05-09] Renaming module interface to communicate controllers init explicitly
   * **0.1.0** - [2013-02-24] Initial release
 
 ## License

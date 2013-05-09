@@ -1,7 +1,7 @@
 {
   "name"          : "node-routes-autoload",
-  "description"   : "Node module automatic load and initialization of node routes from a directory",
-  "version"       : "0.1.0",
+  "description"   : "Node module automatic load and initialization of Express.js routes' controllers from a directory",
+  "version"       : "0.2.0",
   "main"          : "./lib/routesautoload.js",
   "repository"    : {
     "type": "git",
