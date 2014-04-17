@@ -1,7 +1,7 @@
 {
   "name"          : "node-load-modules",
   "description"   : "Node module loading from a directory with optional initialization",
-  "version"       : "0.4.0",
+  "version"       : "0.4.1",
   "main"          : "./lib/loadmodules.js",
   "repository"    : {
     "type": "git",
