@@ -1,11 +1,11 @@
 {
-  "name"          : "node-routes-autoload",
-  "description"   : "Node module automatic load and initialization of Express.js routes' controllers from a directory",
-  "version"       : "0.3.0",
-  "main"          : "./lib/routesautoload.js",
+  "name"          : "node-load-modules",
+  "description"   : "Node module loading from a directory with optional initialization",
+  "version"       : "0.4.0",
+  "main"          : "./lib/loadmodules.js",
   "repository"    : {
     "type": "git",
-    "url" : "git@github.com:zappan/node-routes-autoload.git"
+    "url" : "git@github.com:zappan/node-load-modules.git"
   },
   "keywords"      : [
     "node",
